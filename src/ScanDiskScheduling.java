@@ -102,8 +102,8 @@ public static void main(String[] args)
 {
 
 	// request array
-	int arr[] = { 176, 79, 34, 60,
-					92, 11, 41, 114 };
+	int arr[] = { 176, 79, 34, 60, 92, 11, 41, 114 };
+					
 	int head = 50;
 	String direction = "left";
 

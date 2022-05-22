@@ -1,4 +1,8 @@
-// Java program to demonstrate SCAN Disk Scheduling algorithm
+// OPERATING SYSTEMS (Mini-Project)
+
+// Problem Statement:
+// Design the SCAN disk-scheduling algorithm to simulate a simple disk drive,
+// which has a specified number of logical blocks numbered from 0 onwards.
 
 import java.util.*;
 

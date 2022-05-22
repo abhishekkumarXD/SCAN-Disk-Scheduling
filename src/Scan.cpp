@@ -1,11 +1,5 @@
 // OPERATING SYSTEMS (Mini-Project)
 
-// Team Members:
-// Roll-21 : Mrunal Khatdeo
-// Roll-22 : Kavya Kohli
-// Roll-25 : Abhishek Kumar
-
-
 // Problem Statement:
 // Design the SCAN disk-scheduling algorithm to simulate a simple disk drive,
 // which has a specified number of logical blocks numbered from 0 onwards.
